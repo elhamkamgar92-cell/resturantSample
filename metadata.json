@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Restaurant Landing Page",
+  "description": "A polished, conversion-focused luxury restaurant landing page and interactive client demo customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
